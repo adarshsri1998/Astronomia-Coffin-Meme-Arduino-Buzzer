@@ -1,0 +1,2 @@
+# Astronomia-Coffin-Meme-Arduino-Buzzer
+This code uses a piezo electric buzzer(and a LED to add effect). The connections are as follows - The negative terminal of buzzer is   * connected to the ground and the positive pin of buzzer and LED are connected together to Pin 8. A 100 ohm resistor is connected to the negative  * terminal of LED and then the other terminal of resistor is connected to ground.  * Enjoy Astronimia(Coffin Dance meme) on your arduino! :D  *   * Code created by Adarsh Srivastava(adarshsri1998@gmail.com) on May 1,2020 at 1630 hours.
