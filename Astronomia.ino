@@ -160,17 +160,19 @@ int noteDurations[] = {
   4, 4, 4, 4,
 };
 
-void setup() {
-  for (int thisNote = 0; thisNote < 112; thisNote++)
+void setup() 
+{
+}
+
+void loop() 
+{
+  for (int i = 0; i < 112; ++i)
   {
-    int noteDuration = 750 / noteDurations[thisNote];
-    tone(8, melody[thisNote], noteDuration);
+    int noteDuration = 750 / noteDurations[i];
+    tone(8, melody[i], noteDuration);
     int pauseBetweenNotes = noteDuration * 1.30;
     digitalWrite(7,HIGH);
     delay(pauseBetweenNotes);
     noTone(8);
   }
-}
-
-void loop() {
 }
