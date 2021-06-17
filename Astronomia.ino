@@ -3,7 +3,7 @@
  * terminal of LED and then the other terminal of resistor is connected to ground.
  * Enjoy Astronimia(Coffin Dance meme) on your arduino! :D
  * 
- * Code created by Adarsh Srivastava(adarshsri1998@gmail.com) on May 1,2020 at 1630 hours.
+ * Code created by Adarsh Srivastava(adarshsri1998@gmail.com) on May 1,2021 at 1630 hours.
  * Can be accessed at - https://github.com/adarshsri1998/Astronomia-Coffin-Meme-Arduino-Buzzer/
  */
 
